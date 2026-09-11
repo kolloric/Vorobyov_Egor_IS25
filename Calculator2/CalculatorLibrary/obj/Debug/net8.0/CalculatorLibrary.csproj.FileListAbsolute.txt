@@ -1,0 +1,12 @@
+D:\Games\работы C#\Calculator2\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\работы C#\Calculator2\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+D:\Games\работы C#\Calculator2\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+D:\Games\работы C#\Calculator2\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\Games\работы C#\Calculator2\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+D:\Games\работы C#\Calculator2\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+D:\Games\работы C#\Calculator2\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+D:\Games\работы C#\Calculator2\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+D:\Games\работы C#\Calculator2\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+D:\Games\работы C#\Calculator2\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+D:\Games\работы C#\Calculator2\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
+D:\Games\работы C#\Calculator2\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.AssemblyReference.cache

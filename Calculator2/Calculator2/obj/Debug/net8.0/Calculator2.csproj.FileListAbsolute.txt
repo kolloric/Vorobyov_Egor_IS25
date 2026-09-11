@@ -1,0 +1,14 @@
+D:\Games\работы C#\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.exe
+D:\Games\работы C#\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.deps.json
+D:\Games\работы C#\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.runtimeconfig.json
+D:\Games\работы C#\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.dll
+D:\Games\работы C#\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.pdb
+D:\Games\работы C#\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\работы C#\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.AssemblyInfoInputs.cache
+D:\Games\работы C#\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.AssemblyInfo.cs
+D:\Games\работы C#\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.csproj.CoreCompileInputs.cache
+D:\Games\работы C#\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.dll
+D:\Games\работы C#\Calculator2\Calculator2\obj\Debug\net8.0\refint\Calculator2.dll
+D:\Games\работы C#\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.pdb
+D:\Games\работы C#\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.genruntimeconfig.cache
+D:\Games\работы C#\Calculator2\Calculator2\obj\Debug\net8.0\ref\Calculator2.dll
