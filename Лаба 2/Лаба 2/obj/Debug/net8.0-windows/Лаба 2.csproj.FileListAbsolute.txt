@@ -1,0 +1,16 @@
+D:\Games\работы C#\Лаба 2\Лаба 2\bin\Debug\net8.0-windows\Лаба 2.exe
+D:\Games\работы C#\Лаба 2\Лаба 2\bin\Debug\net8.0-windows\Лаба 2.deps.json
+D:\Games\работы C#\Лаба 2\Лаба 2\bin\Debug\net8.0-windows\Лаба 2.runtimeconfig.json
+D:\Games\работы C#\Лаба 2\Лаба 2\bin\Debug\net8.0-windows\Лаба 2.dll
+D:\Games\работы C#\Лаба 2\Лаба 2\bin\Debug\net8.0-windows\Лаба 2.pdb
+D:\Games\работы C#\Лаба 2\Лаба 2\obj\Debug\net8.0-windows\Лаба_2.Form1.resources
+D:\Games\работы C#\Лаба 2\Лаба 2\obj\Debug\net8.0-windows\Лаба 2.csproj.GenerateResource.cache
+D:\Games\работы C#\Лаба 2\Лаба 2\obj\Debug\net8.0-windows\Лаба 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\работы C#\Лаба 2\Лаба 2\obj\Debug\net8.0-windows\Лаба 2.AssemblyInfoInputs.cache
+D:\Games\работы C#\Лаба 2\Лаба 2\obj\Debug\net8.0-windows\Лаба 2.AssemblyInfo.cs
+D:\Games\работы C#\Лаба 2\Лаба 2\obj\Debug\net8.0-windows\Лаба 2.csproj.CoreCompileInputs.cache
+D:\Games\работы C#\Лаба 2\Лаба 2\obj\Debug\net8.0-windows\Лаба 2.dll
+D:\Games\работы C#\Лаба 2\Лаба 2\obj\Debug\net8.0-windows\refint\Лаба 2.dll
+D:\Games\работы C#\Лаба 2\Лаба 2\obj\Debug\net8.0-windows\Лаба 2.pdb
+D:\Games\работы C#\Лаба 2\Лаба 2\obj\Debug\net8.0-windows\Лаба 2.genruntimeconfig.cache
+D:\Games\работы C#\Лаба 2\Лаба 2\obj\Debug\net8.0-windows\ref\Лаба 2.dll
