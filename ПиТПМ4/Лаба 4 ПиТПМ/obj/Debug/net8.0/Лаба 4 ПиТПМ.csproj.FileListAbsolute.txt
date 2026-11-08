@@ -1,0 +1,14 @@
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\bin\Debug\net8.0\Лаба 4 ПиТПМ.exe
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\bin\Debug\net8.0\Лаба 4 ПиТПМ.deps.json
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\bin\Debug\net8.0\Лаба 4 ПиТПМ.runtimeconfig.json
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\bin\Debug\net8.0\Лаба 4 ПиТПМ.dll
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\bin\Debug\net8.0\Лаба 4 ПиТПМ.pdb
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\obj\Debug\net8.0\Лаба 4 ПиТПМ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\obj\Debug\net8.0\Лаба 4 ПиТПМ.AssemblyInfoInputs.cache
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\obj\Debug\net8.0\Лаба 4 ПиТПМ.AssemblyInfo.cs
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\obj\Debug\net8.0\Лаба 4 ПиТПМ.csproj.CoreCompileInputs.cache
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\obj\Debug\net8.0\Лаба 4 ПиТПМ.dll
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\obj\Debug\net8.0\refint\Лаба 4 ПиТПМ.dll
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\obj\Debug\net8.0\Лаба 4 ПиТПМ.pdb
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\obj\Debug\net8.0\Лаба 4 ПиТПМ.genruntimeconfig.cache
+D:\Games\работы C#\Лаба 4 ПиТПМ\Лаба 4 ПиТПМ\obj\Debug\net8.0\ref\Лаба 4 ПиТПМ.dll

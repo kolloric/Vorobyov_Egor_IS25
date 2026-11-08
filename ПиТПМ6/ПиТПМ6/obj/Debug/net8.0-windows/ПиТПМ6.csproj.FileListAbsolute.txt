@@ -1,0 +1,16 @@
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\obj\Debug\net8.0-windows\ПиТПМ6.Form1.resources
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\obj\Debug\net8.0-windows\ПиТПМ6.csproj.GenerateResource.cache
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\obj\Debug\net8.0-windows\ПиТПМ6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\obj\Debug\net8.0-windows\ПиТПМ6.AssemblyInfoInputs.cache
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\obj\Debug\net8.0-windows\ПиТПМ6.AssemblyInfo.cs
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\obj\Debug\net8.0-windows\ПиТПМ6.csproj.CoreCompileInputs.cache
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\bin\Debug\net8.0-windows\ПиТПМ6.exe
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\bin\Debug\net8.0-windows\ПиТПМ6.deps.json
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\bin\Debug\net8.0-windows\ПиТПМ6.runtimeconfig.json
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\bin\Debug\net8.0-windows\ПиТПМ6.dll
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\bin\Debug\net8.0-windows\ПиТПМ6.pdb
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\obj\Debug\net8.0-windows\ПиТПМ6.dll
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\obj\Debug\net8.0-windows\refint\ПиТПМ6.dll
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\obj\Debug\net8.0-windows\ПиТПМ6.pdb
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\obj\Debug\net8.0-windows\ПиТПМ6.genruntimeconfig.cache
+D:\Games\работы C#\ПиТПМ6\ПиТПМ6\obj\Debug\net8.0-windows\ref\ПиТПМ6.dll
